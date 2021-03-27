@@ -28,8 +28,6 @@ After completing all the settings, click the button "Run Simulation" to start th
 
 |![](https://github.com/StefanGao1114/SimModularFullVehicle/blob/main/fig/TabPlots.png)|On the tab "Plots" you can update the plot by selecting "Achsenobjekt".
 |---|---
-|![](x-special/nautilus-clipboard
-copy
-file:///media/stefan/DAA85049A8502673/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/stone.png)|Stone edge
+|![](https://github.com/StefanGao1114/SimModularFullVehicle/blob/main/fig/stone.png)|Stone edge
 |![](https://github.com/StefanGao1114/SimModularFullVehicle/blob/main/fig/Land.png)|Country road
 
